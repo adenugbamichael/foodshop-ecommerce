@@ -1,6 +1,6 @@
 # foodshop ecommerce Platrform
 
-> eCommerce platform built with the Momgoose, Express, React, Node & Redux.
+> eCommerce platform built with the Mongoose, Express, React, Node & Redux.
 
 
 ![front](https://user-images.githubusercontent.com/57706905/161611242-8093d5c7-d69e-49eb-886e-dd3356ae689a.png)
